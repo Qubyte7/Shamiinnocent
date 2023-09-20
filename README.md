@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MUGISHA SHAMI Innocent</h1>
 <div align="center"> <img src="https://github.com/Shamiinnocent/Shamiinnocent/blob/main/Artistic%20Moon%20(1920x1080).jpeg"></div>
 <h3 align="center">A passionate software engineer and embedded system engineer </h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&tbnid=ZmOH4FBlhx83-M&vet=12ahUKEwjLzPrMzLiBAxUEpicCHY85DHgQMygRegQIARB7..i&imgrefurl=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&docid=hyRv46xL2D6dsM&w=800&h=600&q=professional%20programmer%20gif%20illustrations&ved=2ahUKEwjLzPrMzLiBAxUEpicCHY85DHgQMygRegQIARB7"/>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shamiinnocent&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
