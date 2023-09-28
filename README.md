@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamiinnocent&show_icons=true&locale=en" alt="shamiinnocent" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamiinnocent&" alt="shamiinnocent" /></p>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shamiinnocent&limit=5&theme=flat&combine_all_yearly_contributions=true)
